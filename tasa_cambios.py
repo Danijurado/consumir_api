@@ -1,5 +1,5 @@
 import requests
-from utils import apikey
+from config import apikey
 
 moneda_cripto = input('Ingrese una criptomoneda:').upper()
 
